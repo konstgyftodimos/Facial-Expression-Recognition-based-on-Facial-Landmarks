@@ -23,7 +23,12 @@ Confusion Matrix - SVM - over emotion classes
 
 ![](images/svm.png)
 
-References:
+# Emotion Detection on frames of myself:
+
+![](images/after%20photo.png)
+
+
+# References:
 1. P. Lucey, J. F. Cohn, T. Kanade, J. Saragih, Z. Ambadar and I. Matthews, "The Extended Cohn-Kanade Dataset (CK+): A complete dataset for action unit and emotion-specified expression," 2010 IEEE
 Computer Society Conference on Computer Vision and Pattern Recognition - Workshops, San Francisco, CA, USA, 2010, pp. 94-101, doi: 10.1109/CVPRW.2010.5543262.
 2. Van Gent, P. (2016). Emotion Recognition Using Facial Landmarks, Python, DLib and OpenCV. A tech blog about fun things with Python and embedded electronics. Retrieved from:
