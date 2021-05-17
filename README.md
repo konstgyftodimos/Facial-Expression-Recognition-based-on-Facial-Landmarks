@@ -16,9 +16,11 @@ In the present project, an algorithm that classifies facial expression from raw 
 # Application of K-NN and SVM (linear kernel) to compare accuracy
 
 Confusion Matrix - KNN - over emotion classes
+
 ![](images/knn.png)
 
 Confusion Matrix - SVM - over emotion classes
+
 ![](images/svm.png)
 
 References:
