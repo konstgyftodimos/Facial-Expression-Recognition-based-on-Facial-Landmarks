@@ -13,6 +13,13 @@ In the present project, an algorithm that classifies facial expression from raw 
 
 ![](images/prephoto.png)
 
+# Application of K-NN and SVM (linear kernel) to compare accuracy
+
+Confusion Matrix - KNN - over emotion classes
+![](images/knn.png)
+
+Confusion Matrix - SVM - over emotion classes
+![](images/svm.png)
 
 References:
 1. P. Lucey, J. F. Cohn, T. Kanade, J. Saragih, Z. Ambadar and I. Matthews, "The Extended Cohn-Kanade Dataset (CK+): A complete dataset for action unit and emotion-specified expression," 2010 IEEE
