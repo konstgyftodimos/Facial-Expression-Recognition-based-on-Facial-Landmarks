@@ -11,7 +11,7 @@ In the present project, an algorithm that classifies facial expression from raw 
 
 # Detection of Facial Landmarks:
 
-![](Facial-Expression-Recognition-based-on-Facial-Landmarks/images/prephoto.png)
+![](images/prephoto.pngg)
 
 
 References:
