@@ -1,12 +1,17 @@
 #### Facial-Expression-Recognition-based-on-Facial-Landmarks
 
 # Introduction and Brief Overview
+
 In the present project, an algorithm that classifies facial expression from raw images and videos will be developed. The dataset used to train the algorithm is the CK+ dataset containing the following emotions:
 "anger", "contempt", "disgust", "fear", "happiness", "sadness", "surprise", and is cited at the bottom of this cell. The process involves four steps.
 1. Importing required libraries.
 2. Detection of facial landmarks and extraction of feature vectors for the CK+ dataset.
 3. Application of k - Nearest Neighbors (using Minkowski instead of Euclidean distance as metric) and linear Support Vector Machines and evaluation of classification quality.
 4. Test on an image and a video of myself showing different emotions.
+
+# Detection of Facial Landmarks:
+
+![](Facial-Expression-Recognition-based-on-Facial-Landmarks/images/prephoto.png)
 
 
 References:
